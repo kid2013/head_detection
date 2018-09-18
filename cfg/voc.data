@@ -1,0 +1,6 @@
+classes= 20
+train  = /ssd/username/VOC_DARKNET/train.list
+valid  = /ssd/username/VOC_DARKNET/2007_test.txt
+names = data/voc.names
+backup = backup
+

@@ -1,0 +1,8 @@
+classes= 80
+train  = /ssd/username/Coco2014/trainvalno5k.txt
+valid  = /ssd/username/Coco2014/5k.txt
+# valid = data/coco_val_5k.list
+names = data/coco.names
+backup = backup
+eval=coco
+

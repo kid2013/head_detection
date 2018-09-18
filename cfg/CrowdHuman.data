@@ -1,0 +1,6 @@
+classes= 1
+train  = /ssd/username/CrowdHuman/train.txt
+valid  = /ssd/username/CrowdHuman/val.txt
+names = data/CrowdHuman.names
+backup = backup
+

@@ -1,0 +1,6 @@
+classes= 1
+train  = /ssd/username/HollywoodHeads/train.txt
+valid  = /ssd/username/HollywoodHeads/test.txt
+names = data/HollyWood.names
+backup = backup
+

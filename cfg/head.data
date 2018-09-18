@@ -1,0 +1,8 @@
+classes= 2
+train  = /ssd/username/head_cls/train.list
+valid  = /ssd/username/head_cls/valid.list
+names = data/head.names
+labels = /ssd/username/head_cls/labels.list
+backup = backup
+top=1
+
